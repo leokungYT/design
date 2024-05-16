@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+* {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+}
+
+.oz {
+    padding: 15px;
+    background-color: #36292C;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.oz a {
+    text-decoration: none;
+    color: white;
+}
+
+.oz-mainfont {
+    font-size: 30px;
+    padding-left: 120px;
+}
+.oz-ko {
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+    padding-right: 120px;
+}
+
+
+.ozx {
+    width: 292px;
+    height: 25px;
+    border-radius: 9px;
+    border-style: solid;
+    border-color: #36292C;
+    padding: 5px;
+}
+
+.ozxx {
+   margin-top: 15px;
+}
+
+
+table {
+    border: solid 1px;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.tablee {
+    border: solid 1px;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+th {
+    padding: 15px ;
+}
+td {
+    padding: 5px;
+}
+
+.btn1 {
+    width:79px;
+    height: 29px;
+    background-color: #36292C;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+.btn2 {
+    width:95px;
+    height: 29px;
+    background-color: #36292C;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+.price {
+    text-align: center;
+    align-items: center;
+}
+
+.btn3 {
+    width:95px;
+    height: 29px;
+    background-color: #36292C;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
